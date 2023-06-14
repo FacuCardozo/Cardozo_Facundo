@@ -1,0 +1,10 @@
+let vocales = ["a", "e", "i", "o", "u"]
+document.write(vocales[0])
+document.write(("</br>"))
+document.write(vocales[1])
+document.write(("</br>"))
+document.write(vocales[2])
+document.write(("</br>"))
+document.write(vocales[3])
+document.write(("</br>"))
+document.write(vocales[4])
